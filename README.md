@@ -21,3 +21,5 @@ Final.csv = predicted file [68%]
 
 =============================================================================================
 python_scripts_from_net	=	good scripts (https://github.com/djpetti/dec-meg-2014)
+
+DecMeg2014-master	=	kaggle provided
