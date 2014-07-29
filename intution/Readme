@@ -1,0 +1,5 @@
+
+
+spike_pattern_detect.m	--->	Select 10 sample points (according to amplitude max - min) from each time series of each channel.
+
+plotHist.m	---> histogram plot of one trial

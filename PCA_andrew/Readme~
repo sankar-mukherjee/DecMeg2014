@@ -1,0 +1,2 @@
+
+Create train and test set by concatenting 306 channles into a one long vector [Kaggle provided]. pca with [andrew ng] 1000 components. Classify with Matlab Logistic regression [mnrfit]. 

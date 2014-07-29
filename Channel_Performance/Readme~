@@ -1,0 +1,5 @@
+Kaggle DecMeg 2014
+
+Select channels with high performance and time [0.5 - 1]. concat all the time series into a single vector.
+=================================================
+MaxPerformChannel.m   ---> Classify with elasticnet [Lasso]

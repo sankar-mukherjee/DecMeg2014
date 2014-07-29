@@ -1,0 +1,1 @@
+python svm.py -a ksvm -f 1 -c 0.5 -r submission.csv
