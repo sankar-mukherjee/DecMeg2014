@@ -2,7 +2,7 @@ Occipital Lobe sensor only
 
 Experiment with selecting only the occipitalLobe sensors. 
 
-![alt tag](https://github.com/sankar-mukherjee/DecMeg2014/blob/master/occipitalLobe/brain_sensor.jpg)
+![](https://github.com/sankar-mukherjee/DecMeg2014/blob/master/occipitalLobe/brain_sensor.jpg)
 
 selecting from 0.5 sec. Bandpass filter. Average trails for each subject with each class.
 
